@@ -22,15 +22,15 @@
 const gurinder_saini = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "C++"],
-    askMeAbout: ["web dev", "tech", "photography"],
+    askMeAbout: ["web dev", "MObile App Dev, "tech"],
     technologies: {
         frontEnd: {
-            js: ["HTML", "CSS", "React"],
+            js: ["HTML", "CSS", "React", "React-Native"],
         },
         backEnd: {
             js: ["Node", "Express"],
         },
-        databases: ["mongo", "MySql", "Oracle"]
+        databases: ["mongo", "MySql", "Oracle", "SQLite"]
     },
     funFact: "The first computer “bug” was an actual real-life bug"
 };
